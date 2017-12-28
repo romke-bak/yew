@@ -1,3 +1,5 @@
+#YOLO
+
 # Yew
 
 Yew is a modern Rust framework inspired by Elm and ReactJS.
